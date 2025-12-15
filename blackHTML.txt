@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<head>
+<title> figure captions </title>
+</head>
+<body>
+<h1>image with figure captions</h1>
+<imgsrc=C:\Users\IT DS LAB.DESKTOP-GPDR08I\Pictures\Saved Pictures 
+alt="nature"width="600"height="400"title="image for lover">
+<figcaptain>nature scene</figcaption>
+</figure>
+<h1>HTML video and audio example</h1>
+<video width="600" height="700"controls>
+<source src=https://youtu.be/ZxZO0jd8VoU?si=MlDXTEdL4SOud4pq
+type="video/mp4">
+your brower does not support the video tag.
+</video>
+</body>
+</html>
