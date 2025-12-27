@@ -12,7 +12,7 @@
  → Generate detailed payslips and reports efficiently.
  
  
-## Key Features of the Program
+## Key Features of the Program:
  → Admin Login System
  
  → Provides secure access to the system.
